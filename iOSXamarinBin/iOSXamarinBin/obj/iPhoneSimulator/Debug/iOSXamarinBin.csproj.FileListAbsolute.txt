@@ -1,0 +1,11 @@
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/iOSXamarinBin.exe
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/iOSXamarinBin.pdb
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_PartialAppManifest.items
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/iOSXamarinBin.csproj.CoreCompileInputs.cache
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/iOSXamarinBin.exe
+/Users/bys/Documents/LokiHuang/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/iOSXamarinBin.pdb
