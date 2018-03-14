@@ -1,3 +1,16 @@
 ﻿<Properties StartupConfiguration="{E2AD98AE-20CD-4B28-8CCF-618DC8C8F832}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOSXamarinBin/AppDelegate.cs">
+    <Files>
+      <File FileName="iOSXamarinBin/Main.storyboard" />
+      <File FileName="iOSXamarinBin/FirstViewController.cs" Line="2" Column="7" />
+      <File FileName="iOSXamarinBin/AppDelegate.cs" Line="5" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.iOSXamarinBin PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DA8B4F56-929A-4D19-AF26-702B3E1C088F" />
   <MultiItemStartupConfigurations />
 </Properties>

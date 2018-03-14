@@ -1,6 +1,9 @@
 ﻿using System;
-
 using UIKit;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+using System.Collections.Generic;
 
 namespace iOSXamarinBin
 {
@@ -14,7 +17,18 @@ namespace iOSXamarinBin
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
-            // Perform any additional setup after loading the view, typically from a nib.
+            // Perform any additional setup after loading the view, typically from a nib
+
+            AnalyticsBtn.TouchUpInside += (object sender, EventArgs e) => {
+                Analytics.TrackEvent("Video clicked", new Dictionary<string, string> {
+                    { "Category", "Music" },
+                    { "FileName", "favorite.avi"}
+                });
+            };
+
+            CrashBtn.TouchUpInside += (object sender, EventArgs e) => {
+                Crashes.GenerateTestCrash();
+            };
         }
 
         public override void DidReceiveMemoryWarning()
