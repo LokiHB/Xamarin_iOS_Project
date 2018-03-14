@@ -939,6 +939,10 @@ Function=ReadZStream
 	/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.2/mtouch-cache/Link/System.dll
 Function=WriteZStream
 	/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.2/mtouch-cache/Link/System.dll
+ObjectiveCClass=OBJC_CLASS_$_MSDistribute
+	/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.2/mtouch-cache/Link/Microsoft.AppCenter.Distribute.iOS.Bindings.dll
+ObjectiveCClass=OBJC_CLASS_$_MSReleaseDetails
+	/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.2/mtouch-cache/Link/Microsoft.AppCenter.Distribute.iOS.Bindings.dll
 ObjectiveCClass=OBJC_CLASS_$_MSAppCenter
 	/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.2/mtouch-cache/Link/Microsoft.AppCenter.iOS.Bindings.dll
 ObjectiveCClass=OBJC_CLASS_$_MSCustomProperties
@@ -977,6 +981,10 @@ ObjectiveCClass=OBJC_CLASS_$_MSWrapperException
 	/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.2/mtouch-cache/Link/Microsoft.AppCenter.Crashes.iOS.Bindings.dll
 ObjectiveCClass=OBJC_CLASS_$_MSWrapperExceptionManager
 	/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.2/mtouch-cache/Link/Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+ObjectiveCClass=OBJC_CLASS_$_MSPush
+	/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.2/mtouch-cache/Link/Microsoft.AppCenter.Push.iOS.Bindings.dll
+ObjectiveCClass=OBJC_CLASS_$_MSPushNotification
+	/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-11.2/mtouch-cache/Link/Microsoft.AppCenter.Push.iOS.Bindings.dll
 Function=mono_pmip
 Function=xamarin_dyn_objc_msgSend
 Function=xamarin_dyn_objc_msgSendSuper

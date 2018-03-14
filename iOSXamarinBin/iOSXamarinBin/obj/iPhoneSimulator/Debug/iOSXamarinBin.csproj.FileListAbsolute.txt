@@ -28,3 +28,5 @@
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.iOS.Bindings.dll
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.dll
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.iOS.Bindings.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Distribute.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Distribute.iOS.Bindings.dll

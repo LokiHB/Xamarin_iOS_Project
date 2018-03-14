@@ -5,9 +5,13 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.8/lib/mono/Xamarin.iOS/Mono.Security.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.8/lib/mono/Xamarin.iOS/System.Xml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.8/lib/mono/Xamarin.iOS/System.Core.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Distribute.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Distribute.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Distribute.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Distribute.iOS.Bindings.dll
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Analytics.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Analytics.dll
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.dll
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.iOS.Bindings.dll
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Analytics.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Analytics.iOS.Bindings.dll
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Crashes.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.dll
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Crashes.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Push.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Push.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll

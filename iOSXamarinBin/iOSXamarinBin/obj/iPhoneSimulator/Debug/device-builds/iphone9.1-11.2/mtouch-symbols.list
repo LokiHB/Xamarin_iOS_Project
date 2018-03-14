@@ -468,6 +468,8 @@ _CloseZStream
 _Flush
 _ReadZStream
 _WriteZStream
+_OBJC_CLASS_$_MSDistribute
+_OBJC_CLASS_$_MSReleaseDetails
 _OBJC_CLASS_$_MSAppCenter
 _OBJC_CLASS_$_MSCustomProperties
 _OBJC_CLASS_$_MSDevice
@@ -487,6 +489,8 @@ _OBJC_CLASS_$_MSStackFrame
 _OBJC_CLASS_$_MSWrapperCrashesHelper
 _OBJC_CLASS_$_MSWrapperException
 _OBJC_CLASS_$_MSWrapperExceptionManager
+_OBJC_CLASS_$_MSPush
+_OBJC_CLASS_$_MSPushNotification
 _mono_pmip
 _xamarin_dyn_objc_msgSend
 _xamarin_dyn_objc_msgSendSuper

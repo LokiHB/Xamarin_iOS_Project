@@ -17,6 +17,8 @@
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Analytics.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Analytics.iOS.Bindings.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Crashes.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Crashes.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.iOS.Bindings.dll \
+	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Distribute.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Distribute.dll \
+	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Distribute.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Distribute.iOS.Bindings.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.iOS.Bindings.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Push.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll \
@@ -30,6 +32,8 @@
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Analytics.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Analytics.iOS.Bindings.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Crashes.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Crashes.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.iOS.Bindings.dll \
+	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Distribute.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Distribute.dll \
+	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Distribute.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Distribute.iOS.Bindings.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.iOS.Bindings.dll \
 	-r=/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/packages/Microsoft.AppCenter.Push.1.5.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll \

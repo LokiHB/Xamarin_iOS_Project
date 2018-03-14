@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{E2AD98AE-20CD-4B28-8CCF-618DC8C8F832}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOSXamarinBin/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOSXamarinBin/Info.plist">
     <Files>
-      <File FileName="iOSXamarinBin/Main.storyboard" />
       <File FileName="iOSXamarinBin/FirstViewController.cs" Line="29" Column="21" />
-      <File FileName="iOSXamarinBin/AppDelegate.cs" Line="5" Column="35" />
+      <File FileName="iOSXamarinBin/AppDelegate.cs" Line="28" Column="53" />
       <File FileName="iOSXamarinBin/Main.cs" Line="12" Column="1" />
+      <File FileName="iOSXamarinBin/Entitlements.plist" />
+      <File FileName="iOSXamarinBin/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -12,6 +13,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.iOSXamarinBin PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DA8B4F56-929A-4D19-AF26-702B3E1C088F" />
+  <MonoDevelop.Ide.ItemProperties.iOSXamarinBin PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DA8B4F56-929A-4D19-AF26-702B3E1C088F" automaticSigning="False" />
   <MultiItemStartupConfigurations />
 </Properties>
