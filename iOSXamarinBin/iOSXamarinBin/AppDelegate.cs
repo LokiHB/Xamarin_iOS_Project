@@ -3,6 +3,7 @@ using UIKit;
 using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
+using Microsoft.AppCenter.Push;
 
 namespace iOSXamarinBin
 {
@@ -23,6 +24,7 @@ namespace iOSXamarinBin
         {
             // Override point for customization after application launch.
             // If not required for your application you can safely delete this method
+            AppCenter.Start("8db87aa0-1bc5-4031-923c-6756f5301c54", typeof(Analytics), typeof(Crashes), typeof(Push));
 
             return true;
         }

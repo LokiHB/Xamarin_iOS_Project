@@ -20,3 +20,11 @@
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/iOSXamarinBin.csproj.CoreCompileInputs.cache
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/iOSXamarinBin.exe
 /Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/obj/iPhoneSimulator/Debug/iOSXamarinBin.pdb
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Analytics.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Crashes.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.iOS.Bindings.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.dll
+/Users/bys/Documents/LokiHuang/iOSProject/Xamarin_iOS_Project/iOSXamarinBin/iOSXamarinBin/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.iOS.Bindings.dll
