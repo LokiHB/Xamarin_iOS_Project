@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{E2AD98AE-20CD-4B28-8CCF-618DC8C8F832}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOSXamarinBin/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOSXamarinBin/Entitlements.plist">
     <Files>
       <File FileName="iOSXamarinBin/FirstViewController.cs" Line="29" Column="21" />
-      <File FileName="iOSXamarinBin/AppDelegate.cs" Line="28" Column="53" />
+      <File FileName="iOSXamarinBin/AppDelegate.cs" Line="34" Column="1" />
       <File FileName="iOSXamarinBin/Main.cs" Line="12" Column="1" />
       <File FileName="iOSXamarinBin/Entitlements.plist" />
       <File FileName="iOSXamarinBin/Info.plist" />
