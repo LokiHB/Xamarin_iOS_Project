@@ -27,7 +27,13 @@ namespace iOSXamarinBin
             };
 
             CrashBtn.TouchUpInside += (object sender, EventArgs e) => {
-                Crashes.GenerateTestCrash();
+                try { 
+                    // your code here. 
+                    Crashes.GenerateTestCrash();
+                } catch (Exception exception) {
+                    Crashes.TrackError(exception); 
+                }
+
             };
         }
 
